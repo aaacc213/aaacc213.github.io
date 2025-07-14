@@ -2,39 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/hugo-dev/</loc>
-    <lastmod>2025-02-11T14:33:05+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/hugo-dev/p/atm9-%E6%95%B4%E5%90%88%E5%8C%85%E9%80%82%E9%85%8D%E5%86%85%E5%AE%B9%E5%85%AC%E5%91%8A/</loc>
-    <lastmod>2025-02-11T14:33:05+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/hugo-dev/categories/</loc>
-    <lastmod>2025-02-11T14:33:05+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/hugo-dev/post/</loc>
-    <lastmod>2025-02-11T14:33:05+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/hugo-dev/categories/%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%85%AC%E5%91%8A/</loc>
-    <lastmod>2025-02-11T14:33:05+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/hugo-dev/categories/%E6%97%A7%E6%96%87%E4%BB%B6%E5%BD%92%E6%A1%A3/</loc>
+    <loc>https://aaacc213.github.io/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-dev/p/test-chinese/</loc>
+    <loc>https://aaacc213.github.io/categories/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-dev/page/</loc>
+    <loc>https://aaacc213.github.io/post/</loc>
+    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aaacc213.github.io/categories/%E6%97%A7%E6%96%87%E4%BB%B6%E5%BD%92%E6%A1%A3/</loc>
+    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aaacc213.github.io/p/test-chinese/</loc>
+    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aaacc213.github.io/page/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-dev/archives/</loc>
+    <loc>https://aaacc213.github.io/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-dev/tags/</loc>
+    <loc>https://aaacc213.github.io/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/hugo-dev/categories/test/</loc>
+    <loc>https://aaacc213.github.io/categories/test/</loc>
   </url><url>
-    <loc>http://localhost:1313/hugo-dev/%E5%85%B3%E4%BA%8E/</loc>
+    <loc>https://aaacc213.github.io/%E5%85%B3%E4%BA%8E/</loc>
   </url><url>
-    <loc>http://localhost:1313/hugo-dev/search/</loc>
+    <loc>https://aaacc213.github.io/search/</loc>
   </url>
 </urlset>
