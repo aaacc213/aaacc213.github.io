@@ -7,7 +7,28 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>艾尘-All rights reserved.</copyright>
-        <lastBuildDate>Tue, 19 Aug 2025 14:50:03 +0800</lastBuildDate><atom:link href="https://aaacc213.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 19 Aug 2025 17:47:24 +0800</lastBuildDate><atom:link href="https://aaacc213.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Ranking</title>
+        <link>https://aaacc213.github.io/p/ranking/</link>
+        <pubDate>Tue, 19 Aug 2025 17:47:24 +0800</pubDate>
+        
+        <guid>https://aaacc213.github.io/p/ranking/</guid>
+        <description>&lt;h1 id=&#34;排位规则&#34;&gt;排位规则
+&lt;/h1&gt;&lt;p&gt;禁止一级神、幻兽。&lt;/p&gt;
+&lt;p&gt;携带神兽、悖论、异兽、不得超过两只。&lt;/p&gt;
+&lt;p&gt;道具唯一性：全队不可重复携带相同道具（如2个剩饭、2个生命宝珠等）。&lt;/p&gt;
+&lt;p&gt;禁止使用钛晶化以外的系统。&lt;/p&gt;
+&lt;p&gt;本次采用50级6v6单打的赛制,比赛途中禁止更换宝可梦。&lt;/p&gt;
+&lt;p&gt;禁止一支队伍携带全国编号相同的宝可梦。&lt;/p&gt;
+&lt;p&gt;禁止使用一击必杀招式（地裂、角钻、极落钳、绝对零度）。&lt;/p&gt;
+&lt;p&gt;禁止特性为心情不定、沙穴 、神奇守护、踩影的宝可梦。&lt;/p&gt;
+&lt;p&gt;禁止使用接棒&lt;/p&gt;
+&lt;p&gt;催眠条款：每次只能主动催眠对方一只精灵。&lt;/p&gt;
+&lt;p&gt;请自习阅读规则，违反规则和使用禁用精灵直接判负，比赛的时候出现
+闪退卡退等情况请立即截图保留证据。&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Contest Rules Archive</title>
         <link>https://aaacc213.github.io/p/contest-rules-archive/</link>
         <pubDate>Tue, 19 Aug 2025 14:50:03 +0800</pubDate>
@@ -166,7 +187,7 @@
         <pubDate>Wed, 13 Aug 2025 13:15:22 +0800</pubDate>
         
         <guid>https://aaacc213.github.io/p/server-rules/</guid>
-        <description>&lt;img src="https://aaacc213.github.io/p/server-rules/jiedang.jpg" alt="Featured image of post server rules" /&gt;&lt;h1 id=&#34;服务器规则必看&#34;&gt;服务器规则（必看！）
+        <description>&lt;h1 id=&#34;服务器规则必看&#34;&gt;服务器规则（必看！）
 &lt;/h1&gt;&lt;p&gt;一、基础要求&lt;/p&gt;
 &lt;p&gt;进群改ID： 进群后请将群昵称修改为您的 游戏ID，方便辨认。&lt;/p&gt;
 &lt;p&gt;禁用生电/机器： 严格禁止 生电（自动化生存技术）和任何红石机器装置（包括高频红石）。&lt;/p&gt;
@@ -293,7 +314,7 @@
         <pubDate>Tue, 15 Jul 2025 03:30:05 +0800</pubDate>
         
         <guid>https://aaacc213.github.io/p/%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%85%AC%E7%A4%BA%E8%BF%9B%E6%9C%8D%E5%BF%85%E7%9C%8B/</guid>
-        <description>&lt;img src="https://aaacc213.github.io/p/%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%85%AC%E7%A4%BA%E8%BF%9B%E6%9C%8D%E5%BF%85%E7%9C%8B/chongfan.jpg" alt="Featured image of post 服务器公示【进服必看】" /&gt;&lt;h1 id=&#34;服务器公示&#34;&gt;服务器公示
+        <description>&lt;h1 id=&#34;服务器公示&#34;&gt;服务器公示
 &lt;/h1&gt;&lt;p&gt;艾尘方块宝可梦服务器&lt;/p&gt;
 &lt;p&gt;必须要下载我们的整合包不然玩不了
 必须要下载我们的整合包不然玩不了&lt;/p&gt;
@@ -316,7 +337,7 @@
         <pubDate>Tue, 15 Jul 2025 03:28:10 +0800</pubDate>
         
         <guid>https://aaacc213.github.io/p/%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%97%AE%E9%A2%98%E6%8F%90%E4%BA%A4%E6%96%87%E6%A1%A3/</guid>
-        <description>&lt;img src="https://aaacc213.github.io/p/%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%97%AE%E9%A2%98%E6%8F%90%E4%BA%A4%E6%96%87%E6%A1%A3/jiedang.jpg" alt="Featured image of post 服务器问题提交文档" /&gt;&lt;h1 id=&#34;服务器问题提交文档&#34;&gt;服务器问题提交文档
+        <description>&lt;h1 id=&#34;服务器问题提交文档&#34;&gt;服务器问题提交文档
 &lt;/h1&gt;&lt;p&gt;因腐竹不能无时无刻看着群，而且群里消息凌乱容易忘记&lt;/p&gt;
 &lt;p&gt;故诞生此表【金山文档 | WPS云文档】 方块宝可梦｜艾尘（问题反馈表）
 &lt;a class=&#34;link&#34; href=&#34;https://kdocs.cn/l/caIIY9HHyfMM&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
@@ -331,7 +352,7 @@
         <pubDate>Tue, 15 Jul 2025 03:26:36 +0800</pubDate>
         
         <guid>https://aaacc213.github.io/p/computer-tutorials/</guid>
-        <description>&lt;img src="https://aaacc213.github.io/p/computer-tutorials/weeee.jpg" alt="Featured image of post Computer tutorials" /&gt;&lt;h1 id=&#34;电脑进服教程&#34;&gt;电脑进服教程
+        <description>&lt;h1 id=&#34;电脑进服教程&#34;&gt;电脑进服教程
 &lt;/h1&gt;&lt;p&gt;进服流程&lt;/p&gt;
 &lt;p&gt;1，群文件下载或点击左边夸克网盘下载新整合包《方块宝可梦|艾尘4.4.1[绿].zip》&lt;/p&gt;
 &lt;p&gt;2，打开 &lt;a class=&#34;link&#34; href=&#34;https://skin.shikongzhijia.top&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
