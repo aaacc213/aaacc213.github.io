@@ -7,75 +7,28 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>艾尘-All rights reserved.</copyright>
-        <lastBuildDate>Fri, 22 Aug 2025 06:29:55 +0800</lastBuildDate><atom:link href="https://aaacc213.github.io/categories/%E6%95%99%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>常见问题</title>
-        <link>https://aaacc213.github.io/p/faq1/</link>
-        <pubDate>Tue, 19 Aug 2025 18:05:19 +0800</pubDate>
+        <lastBuildDate>Sat, 23 Aug 2025 18:34:44 +0800</lastBuildDate><atom:link href="https://aaacc213.github.io/categories/%E6%95%99%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>电脑进服教程</title>
+        <link>https://aaacc213.github.io/p/computer-tutorials/</link>
+        <pubDate>Sat, 23 Aug 2025 03:26:36 +0800</pubDate>
         
-        <guid>https://aaacc213.github.io/p/faq1/</guid>
-        <description>&lt;p&gt;1：为什么验证失败&lt;/p&gt;
-&lt;p&gt;答：你没使用我们的第三方登录 pcl我们已经配置好了，不要随意更改&lt;/p&gt;
-&lt;p&gt;需要下载我们整合包&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://aaacc213.github.io/p/faq1/%E6%AD%A3%E7%A1%AE%E9%85%8D%E7%BD%AE.png&#34;
-	width=&#34;900&#34;
-	height=&#34;550&#34;
-	srcset=&#34;https://aaacc213.github.io/p/faq1/%E6%AD%A3%E7%A1%AE%E9%85%8D%E7%BD%AE_hu_c8cec15aa2b1ac30.png 480w, https://aaacc213.github.io/p/faq1/%E6%AD%A3%E7%A1%AE%E9%85%8D%E7%BD%AE_hu_de2a714632043c27.png 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;正确配置&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;163&#34;
-		data-flex-basis=&#34;392px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://aaacc213.github.io/p/faq1/2.png&#34;
-	width=&#34;900&#34;
-	height=&#34;550&#34;
-	srcset=&#34;https://aaacc213.github.io/p/faq1/2_hu_468cf654dc41b27d.png 480w, https://aaacc213.github.io/p/faq1/2_hu_e5319859e37e2327.png 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;正确配置&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;163&#34;
-		data-flex-basis=&#34;392px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;注意检查所有内容和我们一样&lt;/p&gt;
-&lt;p&gt;参考文本粘贴即可&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-text&#34; data-lang=&#34;text&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;https://skin.shikongzhijia.top/api/yggdrasil/926216735
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-text&#34; data-lang=&#34;text&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;https://skin.shikongzhijia.top
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-text&#34; data-lang=&#34;text&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;艾尘方可梦
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;</description>
+        <guid>https://aaacc213.github.io/p/computer-tutorials/</guid>
+        <description>&lt;h1 id=&#34;电脑进服教程&#34;&gt;电脑进服教程
+&lt;/h1&gt;&lt;p&gt;进服流程&lt;/p&gt;
+&lt;p&gt;1，群文件下载或点击左边夸克网盘下载新整合包《方块宝可梦|艾尘4.4.1[绿].zip》&lt;/p&gt;
+&lt;p&gt;2，打开 &lt;a class=&#34;link&#34; href=&#34;https://skin.shikongzhijia.top&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://skin.shikongzhijia.top&lt;/a&gt; 注册（自己的qq号+@qq.com 例如：1283927661@qq.com）&lt;/p&gt;
+&lt;p&gt;3，所注册的qq必须在群内发送“/验证 自己游戏名字&amp;quot;(注意空格)&lt;/p&gt;
+&lt;p&gt;4，本服务器的白名单是自动的，启动器提示无白名单等待一会儿即可，系统每隔5分钟会刷新群成员&lt;/p&gt;
+&lt;p&gt;5，下载完右键客户端点解压到当前文件夹，打开群里新下载的整合包解压出来的pcl《蓝色图标》，登录刚才在网站上注册的账号，点击启动游戏即可&lt;/p&gt;
+&lt;p&gt;6，还不会找腐竹&lt;/p&gt;
+&lt;p&gt;手机进服流程看群文件《手机版进服教程.docx》&lt;/p&gt;
+</description>
         </item>
         <item>
         <title>手机进服教程</title>
         <link>https://aaacc213.github.io/p/mobile-phone-tutorials/</link>
-        <pubDate>Wed, 13 Aug 2025 10:31:21 +0800</pubDate>
+        <pubDate>Fri, 22 Aug 2025 10:31:21 +0800</pubDate>
         
         <guid>https://aaacc213.github.io/p/mobile-phone-tutorials/</guid>
         <description>&lt;h1 id=&#34;手机进服教程&#34;&gt;手机进服教程
@@ -160,22 +113,69 @@
 </description>
         </item>
         <item>
-        <title>电脑进服教程</title>
-        <link>https://aaacc213.github.io/p/computer-tutorials/</link>
-        <pubDate>Tue, 15 Jul 2025 03:26:36 +0800</pubDate>
+        <title>常见问题</title>
+        <link>https://aaacc213.github.io/p/faq1/</link>
+        <pubDate>Tue, 19 Aug 2025 18:05:19 +0800</pubDate>
         
-        <guid>https://aaacc213.github.io/p/computer-tutorials/</guid>
-        <description>&lt;h1 id=&#34;电脑进服教程&#34;&gt;电脑进服教程
-&lt;/h1&gt;&lt;p&gt;进服流程&lt;/p&gt;
-&lt;p&gt;1，群文件下载或点击左边夸克网盘下载新整合包《方块宝可梦|艾尘4.4.1[绿].zip》&lt;/p&gt;
-&lt;p&gt;2，打开 &lt;a class=&#34;link&#34; href=&#34;https://skin.shikongzhijia.top&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://skin.shikongzhijia.top&lt;/a&gt; 注册（自己的qq号+@qq.com 例如：1283927661@qq.com）&lt;/p&gt;
-&lt;p&gt;3，所注册的qq必须在群内发送“/验证 自己游戏名字&amp;quot;(注意空格)&lt;/p&gt;
-&lt;p&gt;4，本服务器的白名单是自动的，启动器提示无白名单等待一会儿即可，系统每隔5分钟会刷新群成员&lt;/p&gt;
-&lt;p&gt;5，下载完右键客户端点解压到当前文件夹，打开群里新下载的整合包解压出来的pcl《蓝色图标》，登录刚才在网站上注册的账号，点击启动游戏即可&lt;/p&gt;
-&lt;p&gt;6，还不会找腐竹&lt;/p&gt;
-&lt;p&gt;手机进服流程看群文件《手机版进服教程.docx》&lt;/p&gt;
-</description>
+        <guid>https://aaacc213.github.io/p/faq1/</guid>
+        <description>&lt;p&gt;1：为什么验证失败&lt;/p&gt;
+&lt;p&gt;答：你没使用我们的第三方登录 pcl我们已经配置好了，不要随意更改&lt;/p&gt;
+&lt;p&gt;需要下载我们整合包&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://aaacc213.github.io/p/faq1/%E6%AD%A3%E7%A1%AE%E9%85%8D%E7%BD%AE.png&#34;
+	width=&#34;900&#34;
+	height=&#34;550&#34;
+	srcset=&#34;https://aaacc213.github.io/p/faq1/%E6%AD%A3%E7%A1%AE%E9%85%8D%E7%BD%AE_hu_c8cec15aa2b1ac30.png 480w, https://aaacc213.github.io/p/faq1/%E6%AD%A3%E7%A1%AE%E9%85%8D%E7%BD%AE_hu_de2a714632043c27.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;正确配置&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;163&#34;
+		data-flex-basis=&#34;392px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://aaacc213.github.io/p/faq1/2.png&#34;
+	width=&#34;900&#34;
+	height=&#34;550&#34;
+	srcset=&#34;https://aaacc213.github.io/p/faq1/2_hu_468cf654dc41b27d.png 480w, https://aaacc213.github.io/p/faq1/2_hu_e5319859e37e2327.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;正确配置&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;163&#34;
+		data-flex-basis=&#34;392px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;注意检查所有内容和我们一样&lt;/p&gt;
+&lt;p&gt;参考文本粘贴即可&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-text&#34; data-lang=&#34;text&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;https://skin.shikongzhijia.top/api/yggdrasil/926216735
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-text&#34; data-lang=&#34;text&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;https://skin.shikongzhijia.top
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-text&#34; data-lang=&#34;text&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;艾尘方可梦
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
         </item>
         
     </channel>
