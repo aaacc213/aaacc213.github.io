@@ -7,7 +7,7 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>艾尘-All rights reserved.</copyright>
-        <lastBuildDate>Tue, 26 Aug 2025 21:44:06 +0800</lastBuildDate><atom:link href="https://aaacc213.github.io/tags/%E8%A7%84%E5%88%99/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 27 Aug 2025 12:41:02 +0800</lastBuildDate><atom:link href="https://aaacc213.github.io/tags/%E8%A7%84%E5%88%99/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>服务器规则</title>
         <link>https://aaacc213.github.io/p/server-rules/</link>
         <pubDate>Thu, 21 Aug 2025 13:15:22 +0800</pubDate>
@@ -47,6 +47,39 @@
 &lt;p&gt;禁止使用处死平台，如岩浆块，火焰花，调令玫瑰等平台
 只能使用普通平台&lt;/p&gt;
 &lt;p&gt;请务必遵守以上规则，共同维护良好的游戏环境！&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>道馆挑战规则</title>
+        <link>https://aaacc213.github.io/p/gym-challenge-rules/</link>
+        <pubDate>Wed, 20 Aug 2025 12:37:44 +0800</pubDate>
+        
+        <guid>https://aaacc213.github.io/p/gym-challenge-rules/</guid>
+        <description>&lt;h1 id=&#34;道馆挑战规则&#34;&gt;道馆挑战规则
+&lt;/h1&gt;&lt;h2 id=&#34;基础规则&#34;&gt;基础规则
+&lt;/h2&gt;&lt;p&gt;· 挑战者禁止使用神兽（包括悖论种、异兽、幻兽）及魔改精灵。&lt;/p&gt;
+&lt;p&gt;· 对战形式由馆主选择，可为单打或双打，等级统一锁定为50级。&lt;/p&gt;
+&lt;p&gt;· 双方可自由选择一项系统：Z招式、Mega进化或太晶化，且允许双方选择不同系统。&lt;/p&gt;
+&lt;p&gt;· 每周最多挑战3次，每日仅限1次，获胜1次即可获得徽章。&lt;/p&gt;
+&lt;h2 id=&#34;馆主阵容要求&#34;&gt;馆主阵容要求
+&lt;/h2&gt;&lt;p&gt;· 馆主需至少派出4只本系属性精灵，可额外携带2只二级神（包括异兽、悖谬种、幻兽）。&lt;/p&gt;
+&lt;p&gt;· 二级神中1只为本系，1只为非本系。禁止携带以下非本系神兽：振翼发、武道熊师（连击流）、武道熊师（一击流）、铁包袱、铁臂膀、厄诡椪（所有形态）。&lt;/p&gt;
+&lt;p&gt;· 馆主必须派出其王牌精灵参与对战。&lt;/p&gt;
+&lt;h2 id=&#34;胜利奖励与传送功能&#34;&gt;胜利奖励与传送功能
+&lt;/h2&gt;&lt;p&gt;· 挑战者获胜后，可在任务列表中的“道馆挑战”项领取奖励。&lt;/p&gt;
+&lt;p&gt;· 可消耗10个宝可梦币，直接传送到道馆坐标。&lt;/p&gt;
+&lt;h2 id=&#34;道具与技能条款&#34;&gt;道具与技能条款
+&lt;/h2&gt;&lt;p&gt;· 全队不可重复携带相同道具（例如2个吃剩的东西、2个生命宝珠等）。&lt;/p&gt;
+&lt;p&gt;· 允许队伍中存在全国图编号相同的宝可梦。&lt;/p&gt;
+&lt;p&gt;· 允许使用一击必杀类招式（地裂、角钻、极落钳、绝对零度）。&lt;/p&gt;
+&lt;p&gt;· 允许使用特性为心情不定、沙穴、踩影的宝可梦。&lt;/p&gt;
+&lt;p&gt;· 禁止使用接棒。&lt;/p&gt;
+&lt;p&gt;· 禁止使用脱壳忍者。&lt;/p&gt;
+&lt;p&gt;· 催眠条款：同时仅允许主动催眠对方一只精灵。&lt;/p&gt;
+&lt;p&gt;· 禁止使用变小等刻意提升闪避率的技能。&lt;/p&gt;
+&lt;h2 id=&#34;违规与异常处理&#34;&gt;违规与异常处理
+&lt;/h2&gt;&lt;p&gt;· 请务必仔细阅读规则，若违反规则或使用禁用精灵，将直接判负。&lt;/p&gt;
+&lt;p&gt;· 对战过程中如出现闪退、卡顿等异常情况，请立即截图保存证据。&lt;/p&gt;
 </description>
         </item>
         <item>
