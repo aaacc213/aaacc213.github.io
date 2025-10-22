@@ -7,7 +7,7 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>艾尘-All rights reserved.</copyright>
-        <lastBuildDate>Sat, 11 Oct 2025 17:47:49 +0800</lastBuildDate><atom:link href="https://aaacc213.github.io/categories/%E8%A7%84%E5%88%99/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 22 Oct 2025 18:34:02 +0800</lastBuildDate><atom:link href="https://aaacc213.github.io/categories/%E8%A7%84%E5%88%99/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>服务器规则</title>
         <link>https://aaacc213.github.io/p/server-rules/</link>
         <pubDate>Thu, 21 Aug 2025 13:15:22 +0800</pubDate>
@@ -78,6 +78,7 @@
 &lt;p&gt;· 禁止使用脱壳忍者。&lt;/p&gt;
 &lt;p&gt;· 催眠条款：同时仅允许主动催眠对方一只精灵。&lt;/p&gt;
 &lt;p&gt;· 禁止使用变小等刻意提升闪避率的技能。&lt;/p&gt;
+&lt;p&gt;· 技能池以朱紫技能池为准，若朱紫未过签则以剑盾为准&lt;/p&gt;
 &lt;h2 id=&#34;违规与异常处理&#34;&gt;违规与异常处理
 &lt;/h2&gt;&lt;p&gt;· 请务必仔细阅读规则，若违反规则或使用禁用精灵，将直接判负。&lt;/p&gt;
 &lt;p&gt;· 对战过程中如出现闪退、卡顿等异常情况，请立即截图保存证据。&lt;/p&gt;
@@ -111,10 +112,7 @@
         <pubDate>Sun, 17 Aug 2025 02:47:21 +0800</pubDate>
         
         <guid>https://aaacc213.github.io/p/gym-leader-recruitment-rules/</guid>
-        <description>&lt;p&gt;目前只限三区和四区
-(一区二区相当的也可以先报名)
-如果报名的多的话，就早日安排&lt;/p&gt;
-&lt;h1 id=&#34;道馆馆主招聘规则&#34;&gt;道馆馆主招聘规则
+        <description>&lt;h1 id=&#34;道馆馆主招聘规则&#34;&gt;道馆馆主招聘规则
 &lt;/h1&gt;&lt;p&gt;1.有充足的时间，能保证每日有时间在线。&lt;/p&gt;
 &lt;p&gt;2.有足够的耐心，有人挑战道馆时，需认真对待，并认真讲解规则。&lt;/p&gt;
 &lt;p&gt;3.需要一定的宝可梦知识，要能够合理搭配队伍。mega，太晶化，z招式三种系统只能选一种使用（禁极巨化太过超标）。&lt;/p&gt;
